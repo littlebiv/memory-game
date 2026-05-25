@@ -1,0 +1,7 @@
+export { shuffleDeck } from './shuffleDeck'
+export { createDeck } from './createDeck'
+export { checkForMatch } from './checkForMatch'
+export { handleCardFlip } from './handleCardFlip'
+export { startNewGame } from './startNewGame'
+export { handleCategoryChange } from './handleCategoryChange'
+export { playAgain } from './playAgain'
